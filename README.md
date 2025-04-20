@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about the decentralized world, expl
 
 ## 🚀 Projects
 
-### 🔗 Airdrop Tracker
+### 🔗 Airdrop Tracker: [Check Here](shorturl.at/34UJr)
 A tool to monitor and manage upcoming airdrops across various blockchain platforms.
 
 ### 📘 Web3 Tutorials
@@ -35,11 +35,11 @@ A collection of tutorials and guides to help newcomers understand and navigate t
 
 ## 📲 Join Us
 
-- 🐦 **X**: [@imcryptohodler](https://x.com/imcryptohodler)  
-- 💬 **Telegram**: [Cryptoland007](https://t.me/Cryptoland007)  
-- 📰 **Substack**: [@imcryptohodler](https://substack.com/@imcryptohodler)  
-- 🎥 **YouTube**: [@Iamcryptohodler](https://www.youtube.com/@Iamcryptohodler)  
-- ✍️ **Medium**: [@I_am_crypto_hodler](https://medium.com/@I_am_crypto_hodler)
+- 🐦 **X**: [For everything](https://x.com/imcryptohodler)  
+- 💬 **Telegram**: [Join](https://t.me/Cryptoland007)  
+- 📰 **Substack**: [For exclusive news](https://substack.com/@imcryptohodler)  
+- 🎥 **YouTube**: [Tiutorial](https://www.youtube.com/@Iamcryptohodler)  
+- ✍️ **Medium**: [Article](https://medium.com/@I_am_crypto_hodler)
 
 ---
 
