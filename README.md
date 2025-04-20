@@ -47,7 +47,7 @@ A collection of tutorials and guides to help newcomers understand and navigate t
 
 If you find my work helpful and would like to support:
 
- **Solana (SOL)**: `FxgFWZzm2fsS7Qws8P5mBLPPxveg94fd76XtA8t1SkS7`
+ **Solana (SOL)**: ``` FxgFWZzm2fsS7Qws8P5mBLPPxveg94fd76XtA8t1SkS7 ```
 
 ---
 
