@@ -8,45 +8,79 @@ Welcome to my GitHub profile! I'm passionate about the decentralized world, expl
 
 ## 🔍 About Me
 
-- 🧑‍💻 **Web3 Explorer**: Diving deep into decentralized applications and blockchain protocols.
-- 🪂 **Airdrop Hunter**: Actively participating in testnets and community engagements to discover promising airdrops.
+- 🧑‍💻 **Web3 Explorer**: Diving deep into decentralized applications and blockchain protocols.  
+- 🪂 **Airdrop Hunter**: Actively participating in testnets and community engagements to discover promising airdrops.  
 - 📢 **Content Creator**: Sharing knowledge through threads, tutorials, and guides to educate the crypto community.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python, Solidity
-- **Frameworks & Tools**: React, Node.js, Hardhat, Ethers.js
-- **Blockchain Platforms**: Ethereum, Solana, Polygon
+- **Languages**: JavaScript, Python, Solidity  
+- **Frameworks & Tools**: React, Node.js, Hardhat, Ethers.js  
+- **Blockchain Platforms**: Ethereum, Solana, Polygon  
 - **Others**: Git, IPFS, The Graph
 
 ---
 
 ## 🚀 Projects
 
-### 🔗 [Airdrop Tracker](https://github.com/imcryptohodler/airdrop-tracker)
+### 🔗 Airdrop Tracker
 A tool to monitor and manage upcoming airdrops across various blockchain platforms.
 
-### 📘 [Web3 Tutorials](https://github.com/imcryptohodler/web3-tutorials)
+### 📘 Web3 Tutorials
 A collection of tutorials and guides to help newcomers understand and navigate the Web3 ecosystem.
 
 ---
 
-## 📫 Connect with Me
+## 📲 Join Us
 
-- 🐦 Twitter: [@imcryptohodler](https://x.com/imcryptohodler)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- 🌐 Website: [Your Personal Website](https://yourwebsite.com)
+- 🐦 **X**: [@imcryptohodler](https://x.com/imcryptohodler)  
+- 💬 **Telegram**: [Cryptoland007](https://t.me/Cryptoland007)  
+- 📰 **Substack**: [@imcryptohodler](https://substack.com/@imcryptohodler)  
+- 🎥 **YouTube**: [@Iamcryptohodler](https://www.youtube.com/@Iamcryptohodler)  
+- ✍️ **Medium**: [@I_am_crypto_hodler](https://medium.com/@I_am_crypto_hodler)
 
 ---
 
 ## 💖 Support My Work
 
-If you find my work helpful and would like to support me:
+If you find my work helpful and would like to support:
 
-- **Ethereum (ETH)**: `0xYourEthereumAddress`
-- **Solana (SOL)**: `YourSolanaAddress`
+ **Solana (SOL)**: `FxgFWZzm2fsS7Qws8P5mBLPPxveg94fd76XtA8t1SkS7`
 
-Thank you for your support!
+---
+
+## 🦩 Trackko
+![image](https://github.com/user-attachments/assets/3fe142be-e303-477c-84fe-ad4f05cbd51f)
+
+Trackko: Airdrop Tracker helps crypto enthusiasts efficiently manage their airdrop participation.
+
+### ✨ Key Features:
+
+🔍 Multi-Account Management: Manage different wallets and accounts in one place
+✅ Task Tracking: Organize your airdrop requirements with a clear checklist system
+📢 Notifications: Get timely reminders for upcoming deadlines and new opportunities
+🔢 Progress Monitoring: Visualize your completion status across different projects
+🔐 Privacy-Focused: Your data stays local on your device with secure browser storage
+
+### 📄 Perfect For:
+
+- Crypto enthusiasts participating in multiple airdrops
+- Anyone who needs an organized system to track various crypto or general tasks
+
+### ❓ How It Works
+
+➕ Add your airdrop tasks and associated links
+🗒️ Set notes and requirements for each task
+✅ Check off completed items as you progress
+⏰ Receive notifications for pending tasks
+📊 Track your overall airdrop participation at a glance
+
+Trackko makes managing complex airdrop requirements simple and efficient, helping you stay on top of your crypto opportunities without missing important tasks—anytime, anywhere.
+
+  
+
+
+---
 
