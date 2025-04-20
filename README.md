@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about the decentralized world, expl
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (vibe coding)
 
 - **Languages**: JavaScript, Python, Solidity  
 - **Frameworks & Tools**: React, Node.js, Hardhat, Ethers.js  
