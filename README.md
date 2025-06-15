@@ -35,7 +35,7 @@ A collection of tutorials and guides to help newcomers understand and navigate t
 
 ## 📲 Join Us
 
-![image](https://github.com/user-attachments/assets/8fe3a552-e45c-4005-a6b7-69ab5ece0668)
+![Screenshot 2025-06-15 231356](https://github.com/user-attachments/assets/2a5d8026-d8a9-4bba-8473-12a2f7ed609d)
 
 - 🐦 **X**: [For everything](https://x.com/imcryptohodler)  
 - 💬 **Telegram**: [Join](https://t.me/Cryptoland007)  
